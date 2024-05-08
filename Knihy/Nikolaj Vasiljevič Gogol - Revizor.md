@@ -1,4 +1,55 @@
-## Ruský realismus
+## Realismus
+- umělecký styl 19. století
+- estetickým principem je pravdivost a věrnost skutečnosti
+- snaží se o zachycení reality, komplexně a složitě
+- tendence vytvářet objektivní díla
+- díla jsou typicky ve současnosti, popisná, typizující postavy, vypravěč je vševědoucí
+- součástí je také **naturalismus** (**N**)
+	- druhá polovina 19. století
+	- člověk je determinován dědičností a prostředím, ve kterém existuje
+	- jeho charakter je ovládán jeho instinkty a pudy
+	- obsahuje drastické a odpuzující scény
+- **další autoři období:**
+	- anglický realismus
+		- Charles Dickens
+			- *Oliver Twist* (román)
+			- *Kronika Pickwickova klubu* (román)
+			- *David Copperfield* (román)
+			- *Nadějné vyhlídky* (román)
+	- francouzský realismus
+		- Honoré de Balzac
+			- *Lidská komedie* (rozsáhlý románový cyklus)
+			- *Otec Goriot* (román)
+			- *Lesk a bída kurtizán* (román)
+			- *Ztracené iluze* (trilogie románů)
+		- Gustave Flaubert
+			- *Paní Bovaryová* (román)
+			- *Citová výchova* (novela)
+			- *Bouvard a Pécuchet* (román)
+		- Emile Zola (**N**)
+			- *Zabiják* (román)
+			- *Nana* (román)
+			- *Germinal* (román)
+	- ruský realismus
+		- Nikolaj Vasiljevič Gogol
+			- *Revizor* (drama)
+			- *Mrtvé duše* (román)
+			- *Ženitba* (drama)
+			- *Hráči* (drama)
+		- Fjodor Michajlovič Dostojevskij
+			- *Zločin a trest* (román)
+			- *Idiot* (román)
+		- Lev 🐯 Nikolajevič Tolstoj
+			- *Vojna a mír* (románová epopej)
+			- *Anna Karenina* (román)
+		- Anton Pavlovič Čechov (**N** + impresionismus)
+			- *Tři sestry* (drama)
+			- *Višňový sad* (drama)
+			- *Strýček Váňa* (drama)
+	- norský realismus
+		- Henrik Ibsen
+			- *Domeček pro panenky* / *Nora* (drama)
+### Ruský realismus
 - carské Rusko v 19. století zaostalo
 - literatura suplovala jiné obory (filozofie, vědu, publicistiku)
 - v literatuře filozofická hloubka
@@ -20,9 +71,6 @@
 	- divadelní hry
 		- *Ženitba*
 		- *Hráči*
-- **současníci:**
-	- Fjodor Michajlovič Dostojevskij
-	- Lev 🐯 Nikolajevič Tolstoj
 ## Revizor (1836)
 - literární druh: **drama** (divadelní hra)
 - literární žánr: **satirická komedie**
