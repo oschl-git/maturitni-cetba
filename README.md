@@ -9,7 +9,7 @@ Study materials for selected literary works, intended to be used for the maturit
 - dvě díla próza
 - dvě díla drama
 - maximálně dvě díla od jednoho autora
-# Seznam knih
+## Seznam knih
 Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 #### Světová a česká literatura do konce 18. století:
 > **alespoň 2 díla**
