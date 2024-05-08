@@ -26,7 +26,7 @@ Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 - [Ernest Hemingway - Stařec a moře](Knihy/Ernest%20Hemingway%20-%20Stařec%20a%20moře.md)
 - [Franz Kafka - Proměna](Knihy/Franz%20Kafka%20-%20Proměna.md)
 - [George Orwell - Farma zvířat](Knihy/George%20Orwell%20-%20Farma%20zvířat.md)
-- Agatha Christie - Deset malých černoušků
+- [Agatha Christie - Deset malých černoušků](./Knihy/Agatha%20Christie%20-%20Deset%20malých%20černoušků)
 #### Česká literatura 20. a 21. století:
 > **alespoň 5 děl**
 - [Viktor Dyk - Krysař](Knihy/Viktor%20Dyk%20-%20Krysař.md)
