@@ -34,7 +34,7 @@ Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 - [Karel Čapek - Válka s Mloky](Knihy/Karel%20Čapek%20-%20Válka%20s%20Mloky.md)
 - [Ladislav Fuks - Spalovač mrtvol](Knihy/Ladislav%20Fuks%20-%20Spalovač%20mrtvol.md)
 - [Ladislav Fuks - Pan Theodor Mundstock](Knihy/Ladislav%20Fuks%20-%20Pan%20Theodor%20Mundstock.md)
-- [Bohumil Hrabal - Příliš hlučná samota](Knihy/Bohumil%20Hrabal%20-%20Příliš%20hlučná%20samota)
+- [Bohumil Hrabal - Příliš hlučná samota](Knihy/Bohumil%20Hrabal%20-%20Příliš%20hlučná%20samota.md)
 - Bohumil Hrabal - Postřižiny
 - Petr Šabach - Hovno hoří
 - Petr Šabach - Občanský průkaz
