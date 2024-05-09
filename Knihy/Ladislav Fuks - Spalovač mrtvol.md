@@ -46,6 +46,9 @@
 	- Ludvík Vaculík
 		- *Český snář* (román)
 		- *Morčata* (román)
+	- Ladislav Fuchs
+		- *Pan Theodor Mundstock* (román)
+		- *Spalovač mrtvol* (román)
 	- Milan Kundera
 		- *Žert* (román)
 		- *Směšné lásky* (soubor povídek)
