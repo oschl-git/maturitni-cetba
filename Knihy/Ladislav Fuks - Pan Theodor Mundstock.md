@@ -56,6 +56,7 @@
 		- *Nesmrtelnost* (román)
 	- Bohumil Hrabal
 		- *Perlička na dně* (soubor povídek)
+		- *Slavnosti sněženek* (soubor povídek)
 		- *Ostře sledované vlaky* (novela)
 		- *Obsluhoval jsem anglického krále* (román)
 		- *Příliš hlučná samota* (román)

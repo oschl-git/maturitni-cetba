@@ -88,7 +88,7 @@
 - po roce 1968 mu bylo zakázáno publikovat knihy, psal jen semizdatově či v cizině
 - vypadl z okna při krmení holubů, možná úmyslně spáchal sebevraždu
 - **dílo:**
-	- soubor povídek
+	- soubory povídek
 		- *Perlička na dně*
 			- první kniha
 			- obsahuje slovo "pábitel", které vymyslel
@@ -112,49 +112,67 @@
 			- pivovar Nymburk, za první republiky
 			- další postavy jsou Francin (manžel Maryšky), Pepin (bratr Francina)
 			- zfilmované Jiřím Menzlem
-## Příliš hlučná samota (1976)
+## Postřižiny (1961)
 - literární druh: **epika**
-- literární žánr: **novela/román (těžké zařadit)**
+- literární žánr: **román**
 - literární směr/sloh: **česká literatura 2. poloviny 20. století**
 ### Stylistická a jazyková charakteristika
-- kniha je rozdělena do 8 kapitol
-- vypravěč v ich-formě
-- využívá refrén: každá kapitola začíná slovy *"Třicet pět let jsem presoval starý papír…"*
+- kniha je rozdělena do 12 kapitol
+- vypravěč v ich-formě (Maryška)
 - velmi dlouhá, rozsáhlá souvětí
-- zdrobněliny, archaismy
-- chronologická kompozice, ovšem obsahuje četné retrospektivní odbočky
-- autobiografické prvky
+- děj vyprávěn chronologicky s odbočkami do minulosti
+- dialogy mezi Maryškou a Francinem
+- nespisovné výrazy, knižní výrazy, řečnické otázky, zdrobněliny
 ### Téma díla
-- lisování knih, cenzura, nakládání režimu se vzdělaností
-- samota
-- smysl života
+- úsměvná a jemná kritika maloměšťanského života za první republiky
+- obdiv k životu, vztah k člověku a lidstvu
+- ústředním motivem je zkracování času a vzdáleností v moderním věku, odtržení od tradičních morálních hodnot
+	- symboly jsou vynález rádia, zkracování ocasu psa, zkracování sukní, zkrácení vlasů Maryšky
 ### Časové a prostorové umístění
- - Praha, lisovna papíru, sklepení, hospody
- - 70. léta 20. století, za socialismu
+- v neurčeném provrepublikovém městě (díky autobiografickým rysům díla můžeme soudit, že se jedná o Nymburk)
+- časové zasazení není určeno, pravděpdobně počátek 20. století
 ### Postavy
-- **Hanťa**
+- **Maryška**
 	- hlavní postava, vypravěč
-	- samotář
-- **Mančinka**
-	- krásná dívka, Hanťova láska
-	- její život je plný trapasů
-	- objevuje se ve vzpomínkových pasážích
-- **Cikánka**
-	- dívka, se kterou se Hanťa seznámil během války
-- **Hanťův šéf**
-	- věčně nespokojený, řve, rozkazuje
-
-V textu se vyskytuje více postav, ale očividně čtenáře zajímají tak málo, že se o nich žádný z online přístupných zdrojů nezmiňuje.
+	- krásná, oblíbená, všichni ji obdivují
+	- má bláznivé nápady
+- **Francin**
+	- manžel Maryšky
+	- správce pivovaru
+	- milý, klidný, chce aby Maryška byla slušnou a spořádanou ženou
+- **strýc Pepin**
+	- Francinův bratr
+	- švec
+	- energetický, mluví extrémně nahlas, uřvaný
+- **Gruntorád**
+	- doktor, léčí Maryšku když má vymklý kotník
+- **Boďa Červinka**
+	- holič, který na konci díla ustřihne Maryšce její krásné, dlouhé vlasy
 ### Stručný děj díla
-- Hanťa již 35 let lisuje staré knihy a noviny ve sklepě sběrny
-- je "vzdělán proti své vůli", zachránil a přečetl nespočet knih určených k likvidaci, jeho byt je plný knih
-- lisování papíru je pro Hanťu tvoření uměleckého díla, slisované balíky jsou pečlivě složené
-- Hanťa vzpomíná na svou minulost a zavádí čtenáře do svého mládí
-	- tragikomická láska k Mančince
-	- společné soužití s cikánkou za druhé světové války
-- vzpomíná na smrt matky a smrt svého strýce
-- když je v Praze v Bubnech postaven nový gigantický lis papíru, jde se na něj podívat, je zděšen jak jednoduše a bezmyšlenkovitě do něj knihy hází
-- kvůli své nízké výkonnosti je Hanťa z funkce odvolán, má se stát baličem čistého papíru
-- na jeho místo nastoupí dva mladíci, pracují mechanicky a neosobněle, Hanťa se s tím nedokáže smířit, zažívá vizi že lis slisuje celou Prahu
-- zoufalství ho dožene k záměru spáchat sebevraždu, zdá se mu sen, že se nechá lisem slisovat sám
-	- v originální verzi se nechal slisovat opravdu, konec byl ovšem změněn
+- Maryška žije s Francinem v pivovaru, dělá si, co usmyslí
+- vzpomíná na svícení petrolejovými lampami a jak se těšila na zavedení elektrického proudu
+- s Francinem vlastní čtyři prasata, každý rok se Maryška těší na zabijačku
+- pomáhá řezníkovi, miluje se dotýkat syrového masa, hned ráno si smaží řízek a zapíjí ho pivem
+- Francin si o ní myslí, že se chová jako neuspořádaná žena
+- Maryška chodí ke kateřníkovi Boďovi, který ji mije vlasy v odvaru který si sama připravuje, mytí je pro ně jakýsi obřad
+- Maryška jezdí po městě, vlasy za ní vlají, všichni ji obdivují, Francin její vlasy miluje a rád se jich dotýká
+- do pivovaru přijede energický a uřvaný bratr Francina, strýc Pepin
+- má zůstat na 14 dní, ale v pivovaru zůstane do konce života
+- Pepin neustále mluví, je nezastavitelný, Francin je nešťastný
+- Francin jezdí jednou měsíčně do Prahy, když se vrací, přiveze Maryšce vždy nějaký dárek
+- tentokrát přiveze podivný masážní přístroj vyrobený ze skleněných trubic, má sloužit jako léčba migrény, srdce, nervů atp., neonově svítí
+- kvůli Pepinovi není v pivovaru nikdy klid, narušuje schůze představitelstva, Francin ve vzteku spálí Pepinovo ševcovské nářadí
+- při jedné schůzi představitelstva se Maryška a Pepin baví příliš hlasitě, a tak jim francin nadnešeně řekne, že si mají povídat na pivovarský komín
+- Maryška a Pepin na komín opravdu vylezou, lidé z města je na komínu sledují, nakonec je přijede zachránit skupina hasičů a slezou dolů
+- Maryška vzpomíná na dětství, na dobu kdy ji bylo 6 a zlobila, její tatínek si vybíjel zlost tím, že ničil sekerou almary
+- do městečka přišel rozhlas, Maryška je nadšená, stejně jako rozhlas zkracuje vzdálenosti se rozhodně zkrátit věci ve svém životě
+- zkrátí si sukni, pokusí se s Pepinem zkrátit nohy u stolu (ale zkrátí jednu nohu čtyřikrát), usekne svému psovi Mucíkovi ocas
+- Mucík se bolestí zblázní, začne mu pěnit u huby, Francin ho v noci zastřelí
+- Francin jednou přiveze z Prahy Maryšce gramofon, pokouší se spolu tančit tango, ale moc mu to nejde, a tak Maryška tancuje se strýcem Pepinem
+- Maryška si vymkne kotník
+- Francin využívá zařízení a masýruje Maryšku každý večer fialovým neonovým světlem
+- Maryška chce přístroj ukázat doktorovi Guntorádovi, ale zapomene zředit eukalyptovou vodičku, a tak ho popálí, doktor se ale nezlobí
+- v závěru knihy poprosí Maryška Boďu, aby jí zkrátil vlasy
+- když se vrací domů na kole, nikdo ji neobdivuje, nikdo ji nepoznává
+- když ji Francin vidí, naplácá jí pumpičkou na kolo přes zadek
+- zkrácené vlasy jsou pro oba zlomovým bodem a začíná pro ně nový život
