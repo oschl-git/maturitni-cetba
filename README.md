@@ -37,5 +37,5 @@ Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 - [Bohumil Hrabal - Příliš hlučná samota](Knihy/Bohumil%20Hrabal%20-%20Příliš%20hlučná%20samota.md)
 - [Bohumil Hrabal - Postřižiny](Knihy/Bohumil%20Hrabal%20-%20Postřižiny.md)
 - [Petr Šabach - Hovno hoří](Knihy/Petr%20Šabach%20-%20Hovno%20hoří.md)
-- Petr Šabach - Občanský průkaz
+- [Petr Šabach - Občanský průkaz](Knihy/Petr%20Šabach%20-%20Občanský%20průkaz.md)
 - Ladislav Smoljak a Zdeněk Svěrák - Vyšetřování ztráty třídní knihy (**D**)

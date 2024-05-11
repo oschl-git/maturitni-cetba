@@ -83,6 +83,14 @@
 	- *Hovno hoří* -> *Pelíšky*
 	- *Opilé banány* -> *Pupendo*
 - kniha *Občanský průkaz* byla zfilmována režisérem **Ondřejem Trojanem** pod stejným názvem
+- narodil se v Praze
+- vystudoval teorii kultury na FFUK
+- pracoval jako technický redaktor, metodik kulturního domu, noční hlídač v Národní galerii
+- byl odborným referentem Galerie hlavního města Prahy
+- po roce 2001 žil jako volný spisovatel
+- vedl seminář tvůrčího psaní
+- žil v pražských Dejvicích se svou ženou
+- zemřel po krátké těžké nemoci
 - **dílo:**
 	- *Jak potopit Austrálii*
 		- 50. léta
@@ -104,8 +112,8 @@
 	- *Sázka* - ich-forma (muž, pozorovatel)
 	- *Bellevue* - er-forma
 	- *Voda se šťávou* - ich-forma (muž, vypravěč, proloženo poznámkami vypravěčovy ženy Any)
-- přímá řeč
-- chronologický děj
+- přímá i nepřímá řeč
+- současný jazyk
 - ustálená slovní spojení, nářečí, řečnické otázky, spisovný i nespisovný jazyk, hovorové výrazy, vulgární výrazy, knižní výrazy, cizí a přejaté výrazy
 - ironie, sarkasmus, humor
 ### Téma díla
