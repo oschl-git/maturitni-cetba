@@ -36,6 +36,6 @@ Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 - [Ladislav Fuks - Pan Theodor Mundstock](Knihy/Ladislav%20Fuks%20-%20Pan%20Theodor%20Mundstock.md)
 - [Bohumil Hrabal - Příliš hlučná samota](Knihy/Bohumil%20Hrabal%20-%20Příliš%20hlučná%20samota.md)
 - [Bohumil Hrabal - Postřižiny](Knihy/Bohumil%20Hrabal%20-%20Postřižiny.md)
-- Petr Šabach - Hovno hoří
+- [Petr Šabach - Hovno hoří](Knihy/Petr%20Šabach%20-%20Hovno%20hoří.md)
 - Petr Šabach - Občanský průkaz
 - Ladislav Smoljak a Zdeněk Svěrák - Vyšetřování ztráty třídní knihy (**D**)
