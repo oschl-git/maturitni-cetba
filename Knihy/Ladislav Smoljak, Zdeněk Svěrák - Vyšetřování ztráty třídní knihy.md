@@ -1,0 +1,138 @@
+## České divadlo 2. poloviny 20. století
+- 60. léta přinesla uvolnění cenzury
+- nově vznikají autorská divadla malých forem
+- **Divadlo Semafor**
+	- = **se**dm **ma**lých **fo**rem
+	- autorská dvojice **Jiří Suchý** a **Jiří Šlitr**
+	- psali populární hudbu a písničky
+	- inteligentní, poetické texty
+	- šlitr zemřel předčasně již v roce 1969 za nevyjasněných okolností, mohlo se jednat o sebevraždu, Suchý dál v divadle pokračoval
+	- tvořili první televizní videoklipy
+	- druhou kreativní dvojicí byl **Jiří Grossman** a **Miroslav Šimek**
+	- dnes v divadle účinkuje **Luděk Sobota**
+- **Divadlo Járy Cimrmana**
+	- vzniklo na konci 60. let
+	- zakládající dvojice **Ladislav Smoljak** a **Zdeněk Svěrák**
+	- původně hráli v Malostranské besedě
+	- základem divadla je ~~fiktivní~~ reálná postava českého génia Járy Cimrmana, který žil za doby Rakouska-Uherska
+	- představení se skládají z úvodního semináře a inscenace jedné hry, kterou Cimrman napsal
+	- divadla řeší život a dílo Járy Cimrmana, semináře předkládají výsledky bádání
+	- kvůli nátlaku režimu se muselo divadlo často stěhovat
+	- o Járovi Cimrmanovi byly natočeny filmy
+		- *Jára Cimrman ležící spící*
+			- komedie, filmová biografie Járy Cimrmana
+		- *Nejistá sezóna*
+			- komedie, znázorňuje vliv režimu na divadlo
+	- **představení (celkem 13):**
+		- *České nebe*
+		- *Afrika*
+		- *Lijavec*
+		- *Vyšetřování ztráty třídní knihy*
+		- *Dobytí severního pólu Čechem Karlem Němcem*
+- **další dramatičtí autoři období:**
+	- Václav Havel
+		- dramata
+			- *Zahradní slavnost*
+			- *Audience*
+			- *Odcházení*
+		- poezie
+			- *Antikódy*
+	- Pavel Kohout
+		- drama
+			- *August August, august*
+	- Pavel Kohout
+		- dramata
+			- *Konec masopustu*
+			- *Kočka na kolejích*
+## Ladislav Smoljak
+- **1931 - 2010**
+- narodil se v Praze
+- vystudoval gymnázium, chtěl studovat divadelní režii na DAMU, neuspěl, nakonec vystudoval Vysokou školu pedagogickou
+- byl středoškolským profesorem matematiky a fyziky
+- psal recenze na televizní tvorbu do časopisu, byl nakladatelským redaktorem v Mladé frontě
+- později pracoval jako scénárista a režisér ve Filmovém studiu Barrandov
+- v roce 1966 byl spoluzakladatelem divadla Járy Cimrmana, podílel se na něm celý život
+- působil i ve vlastním divadle Studio Jára, které později bylo přejmenované na Studio Láďa, v divadle Semafor, v divadle Na zábradlí
+- byl filmovým režisérem a hercem
+- byl celoživotně politicky aktivní
+- byl chybně označený za spolupracovníka StB
+- zemřel na rakovinu v roce 2010, účinkoval v představení ještě deset dní před smrtí
+## Zdeněk Svěrák
+- **1936 - TBD**
+- narodil se v Praze
+- vystudoval gymnázium a Vysokou školu pedagogickou
+- se svou budoucí manželkou odešel učit do severozápadních Čech, čtyři roky byl učitelem
+- později začal pracovat v Československém rozhlase, byl spoluautorem rozhlasového pořadu *Nealkoholická vinárna U Pavouka*, ve kterém vznikla postava Járy Cimrmana
+- v rozhlase poznal hudebníka Jaroslava Uhlíře, se kterým dodnes spolupracuje
+- v roce 1966 byl spoluzakladatelem divadla Járy Cimrmana, připravil první hru Akt, na všech třinácti autorských hrách divadla se podílel s Ladislavem Smoljakem, ve všech účinkoval
+- psal filmové scénáře se Smoljakem i sám
+	- se Smoljakem napsal např. filmy *Marečku, podejte mi pero!* či *Jáchyme, hoď ho do stroje!*
+	- jeho samostatná tvorba obsahuje např. scénáře pro filmy *Vrchní, prchni* nebo *Tři veteráni*
+- během 80. let pracoval s režisérem Vítem Olmerem, hrál v několika jeho filmech
+- psal scénáře na filmy které režíroval syn Jan Svěrák, vznikly snímky jako *Kolja*, *Obecná škola*, *Tmavomodrý svět*, *Vratné lahve*
+- film *Kolja* je dodnes jediným českým snímkem, který vyhrál Oscara (za nejlepší cizojazyčný film)
+- společně s Jaroslavem Uhlířem píše písničky pro děti
+- je autorem pohádek i povídek, napsal tři povídkové knihy *Povídky*, *Nové povídky* a *Po strništi bos*
+## Vyšetřování ztráty třídní knihy (1967)
+- literární druh: **drama**
+- literární žánr: **činohra, komedie**
+- literární směr/sloh: **české divadlo 2. poloviny 20. století**
+### Stylistická a jazyková charakteristika
+- stejně jako všechny představení Járy Cimrmana se dílo skládá ze dvou částí
+	1. úvodní seminář
+		- odborné referáty o životě Járy Cimrmana, kontext pro dílo
+		- vypráví herci jako "profesorové", experti na život Járy Cimrmana
+	2. inscenace představení Járy Cimrmana
+		- jednoaktová divadelní hra, kterou Cimrman napsal
+- spisovný jazyk, občas se vyskytuje hovorová čeština
+- odborné výrazy, občas fiktivní
+- dvojsmysly, citoslovce, archaismy, řečnické otázky, nadsázka
+- obsahuje prvky absurdního dramatu, postavy si občas nerozumí, jejich slova jsou prázdná, postavy hovoří o něčem jiném, nereagují na sebe
+- anakoluty = vyšinutí z větné vazby (*"Máme tady jednu takovou nepěknou, ošklivý případ."*)
+### Téma díla
+- vyšetřování ztráty třídní knihy, která se ztratila před sedmi lety
+- kritika vzdělávacího systému a jeho konzervativnosti
+- vztah mezi autoritami, učitel se bojí inspektora, který se bojí školního rady
+### Časové a prostorové umístění
+- dílo se odehrává za Rakouska-Uherska
+- celé představení se odehrává ve učebně třídy 8.C
+### Postavy
+- v úvodním semináři
+	- **prof. Smoljak**
+	- **dr. Svěrák**
+	- **prof. Čepelka**
+	- **doc. Weigel**
+	- **ing. Unger**
+- v inscenaci hry
+	- **Učitel**
+		- hraje Zdeněk Svěrák
+		- plachý, bojácný
+		- střídá dobráckost s vyhrožováním
+		- má strach z ředitele
+	- **Ředitel**
+		- hraje Ladislav Smoljak
+		- snaživý, přesvědčuje žáky k navrácení třídní knihy
+		- má strach z inspektora
+	- **Inspektor**
+		- dobrácký
+		- má strach ze zemského školního rady
+	- **Zemský školní rada**
+		- zamlklý člověk
+	- **Žáci**
+		- představuje je obecenstvo, ostatní postavy k nim často promlouvají
+### Stručný děj díla
+- **úvodní seminář**
+	- profesorové a doktoři vyprávějí o životě Járy Cimrmana
+	- představují Cimrmanovu šesterku, jeho pedagogické zásady
+- **inscenace hry**
+	- jednotlivé postavy se postupně snaží přesvědčit a donutit třídu 8.C aby vrátila ukradenou třídní knihu
+	- učitel se pokouší přesvědčit třídu, nejdříve smířlivě, nakonec vyhrožuje i příchodem ředitele
+	- ředitel přichází a také žáky přesvědčuje, vyhrožuje příchodem inspektora, kterého se zjevně sám bojí
+	- přichází inspektor, třídní kniha ho ale nezajímá, záleží mu na čtyřech ukradených čepicích, které byly ztraceny na Vyškově
+	- učitel a ředitel se mu snaží předvést, jak intenzivně se po třídní knize pátrá, jeho to ale vůbec nezajímá
+	- přichází zemský školní rada, za celou návštěvu nepromluví ani slovo, všichni se před ním pokoušejí ztrátu třídní knihy zamaskovat
+	- rada si vybaluje svačinu, nabízí ostatním, nakonec si i žáci smí pustit do svých svačin
+	- třídní kniha zůstává nenalezena
+### Doplňující informace
+- *Vyšetřování ztráty třídní knihy* je v pořadí druhá inscenovaná hra Divadla Járy Cimrmana
+- kvůli nátlaku režimu se obsah divadelní hry měnil, byly potlačeny narážky na normalizační cenzuru, změna ruštiny na němčinu, zmizely zmínky o Marxismu, atd.
