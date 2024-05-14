@@ -13,7 +13,7 @@ Study materials for selected literary works, intended to be used for the maturit
 Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 #### Světová a česká literatura do konce 18. století:
 > **alespoň 2 díla**
-- William Shakespeare - Hamlet (**D**)
+- [William Shakespeare - Hamlet](Knihy/William%20Shakespeare%20-%20Hamlet.md) (**D**)
 - William Shakespeare - Romeo a Julie (**D**)
 #### Světová a česká literatura do konce 19. století:
 > **alespoň 3 díla**
