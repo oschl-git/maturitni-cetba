@@ -73,8 +73,8 @@
 - **1903 - 1950**
 - vlastním jménem **Eric Arthur Blair**
 - anglický spisovatel, jeden z nejvýznamnějších autorů 20. století
+- narodil se v Indii v rodině úředníka
 - zkušenost z války a ze života ho vedly k socialistickým postojům
-- narodil se v Indii v rodině učedníka
 - v dospělosti se vrátil do východní Asie
 - **témata díla:**
 	- kritika totalitních režimů (komunismus, fašismus)

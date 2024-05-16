@@ -45,6 +45,9 @@
 - **1883 - 1924**
 - pražský německý žid, psal v němčině
 - *kafkovský* = fantaskní absurdní svět bez východiska, nejistota, absence smyslu
+- byl celoživotně ovlivněný komplikovaným vztahem s přísným otcem
+- měl komplikované vztahy se ženami, byl ostýchavý
+- vystudovaný právník, pracoval jako úředník v pojišťovně
 - 90% díla nikdy nedokončil a nevydal, mnoho textů spálil, chtěl, aby po jeho smrti bylo spáleno vše
 - jeho přítel **Max Brod** toto rozhodnutí nerespektoval a vydal mnoho Kafkových děl, včetně soukromých deníků a korespondence
 	- korespondence s Miladou Jesenskou, první překladatelkou Kafkova díla do češtiny

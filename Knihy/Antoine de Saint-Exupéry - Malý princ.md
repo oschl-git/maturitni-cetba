@@ -34,16 +34,23 @@
 ## Antoine de Saint-Exupéry
 - **1900 - 1944**
 - francouzský spisovatel, reportér, letec
-- psal meditativní a filozofickou prózu
+- narodil se v Lyoně, aristokratického původu
+- studoval ve Švýcarsku a Paříži
+- již v dětství psal básně, byl fascinován letectvím
+- v roce 1921 nasoupil do vojenské služby, získal leteckou způsobilost, od té doby se letectví věnoval celý život
+- sestřelen za druhé světové války při průzkumném letu nad středozemním mořem
+- psal meditativní a filozofickou prózu a prózu s leteckou tématikou
 - průkopník dálkových letů
-- aristokratického původu
-- sestřelen při průzkumném letu nad středozemním mořem
 - **další dílo:**
 	- *Noční let*
 		- román o leteckém kurýrovi
 		- autobiografické jevy
 	- *Citadela*
 		- meditativní román, nedokončený
+	- *Válečný pilot*
+		- prózy na pomezí reportáže a dokumentu
+		- z osobních reálných zážitků, mnohdy ze situací bezprostředního ohrožení života
+		- filozofické pasáže o smyslu života
 ## Malý princ (1943)
 - literární druh: **epika**
 - literární žánr: **filozofická pohádka**

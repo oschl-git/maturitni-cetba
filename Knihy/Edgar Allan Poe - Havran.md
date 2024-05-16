@@ -48,15 +48,18 @@
 - **1809 - 1849**
 - američan
 - básník, prozaik, literární teoretik, esejista
-- předchůdce detektivních románů a moderních hororů
+- předchůdce detektivních románů a moderních hororů; je považován za zakladatele detektivní literatury
 - zakladatel americké novely
 - inspiroval prokleté básníky
 - **život:**
-	- ve dvou letech ztratil rodiče, vychovával ho příbuzný
-	- kariéra u vojska, byl vyhozen
+	- jeho matka mu zemřela v dětství a otec byl alkoholik, tak se ho ujala adoptivní rodina
+	- poskytla mu vzdělání v USA, Anglii a Skotsku
+	- začal hrát hazardní hry, zadlužil se, byl vyloučený z akademie a svou adoptivní rodinu opustil
+	- pokoušel se o kariéru u vojska, ale byl vyloučen
 	- ve 26 letech se přestěhoval ke své tetě, kde se oženil se svojí 13 letou sestřenicí Virginií
-	- Virginia zemřela, jako důsledek začal pít, pokusil se o sebevraždu
+	- Virginia zemřela, jako důsledek začal pít, propadl depresi a duševním nemocem, pokusil se o sebevraždu
 	- po rvačce v hospodě zemřel
+	- jeho pohřbu se zúčastnili pouze čtyři lidé
 - **další dílo:**
 	- povídky
 		- *Vraždy v ulici Morgue*

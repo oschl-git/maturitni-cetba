@@ -61,9 +61,14 @@
 - skupina francouzských básníků 2. pol. 19. stol.
 ## Charles Baudelaire
 - **1821 - 1867**
-- francuzský prokletý básník
+- francuzský prokletý básník a literární kritik
+- narodil se i zemřel v Paříži
+- vedl bohémský život, od své plnoletosti byl závislý na hašiši, opiu a alkoholu
+- založil časopis 
+- překládal dílo Edgara Allana Poe
 - za sbírku Květy zla byl odsouzen za urážku
 	- pokuta, sbírka mu byla zabavena, zcenzurována
+- zemřel jako chudý člověk, nebyl si na sebe schopný vydělat
 ## Květy zla (1857)
 - literární druh: **lyrika**
 - literární žánr: **básnická sbírka**

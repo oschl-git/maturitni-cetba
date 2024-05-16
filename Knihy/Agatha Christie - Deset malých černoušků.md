@@ -13,6 +13,13 @@
 - občas používala pseudonym **Mary Westmacott**
 - spisovatelka extrémně populární a vlivné detektivní literatury
 - podle některých odhadů je nejprodávanějším spisovatelem všech dob (podle jiných je jim William Shakespeare)
+- narodila se v Anglii do bohaté viktoriánské rodiny, byla vzdělávána rodiči
+- studovala hudbu a francouzštinu v Paříži
+- měla talent pro zpěv a klavír, ostýchala se ale před publikem, a tak kariéru pěvkyně opustila
+- pracovala jako dobrovolná sestra za první i druhé světové války, lékařské zkušenosti byly inspirací pro mnoho děl
+- v roce 1914 se jako důsledek smrti matky a manželské krize nervově zhroutila a na 11 dní zmizela
+- její dílo se drží na velké úrovni popularity díky nadčasovosti, je málo dotčené překonanými dobovými názory a předsudky, velmi přístupné čtenářům
+- její detektivní příběhy byly několikrát adaptovány, nejslavněji v televizním seriálu Hercule Poirot s Davidem Suchetem v hlavní roli 
 - ve svých dílech psala hlavně o dvou fitkivních detektivech
 	- **Hercule Poirot** (**P**)
 		- belgický soukromý detektiv
@@ -74,7 +81,7 @@
 - **Ethel Rodgersová**
 	- služka na Černochově ostrově, žena Thomase Rodgerse
 ### Stručný děj díla
-- 10 lidí se setkají na Černochově ostrově
+- 10 lidí se setká na Černochově ostrově
 - byli pozváni různými způsoby, někomu přišel dopis od vzdáleného přítele či bývalé manželky, někomu telegram, atp.
 - po přijetí na ostrov zjišťují, že důvody pozvání byly vymyšlené, a že jsou na ostrově izolování
 - sluha Thomas Rodgers pustí gramofonovou desku, která všechny návštěvníky ostrova osočí ze zločinů

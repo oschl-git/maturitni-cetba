@@ -76,6 +76,7 @@
 	- častý motiv převlékání postav pro skrytí identity
 ## William Shakespeare
 - **1564 - 1616**
+- podle některých odhadů je nejprodávanějším spisovatelem všech dob (podle jiných je jim Agatha Christie)
 - narodil se ve Stratfordu nad Avonou
 - třetí z osmi dětí
 - otec byl rukavičkář, matka dcera bohatého velkostatkáře
