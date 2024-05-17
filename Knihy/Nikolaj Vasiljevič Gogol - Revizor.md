@@ -59,7 +59,7 @@
 - **1809 - 1852**
 - ukrajinského původu
 - vyrostl v rodině sedláka
-- vystudoval historii v Petrohradě
+- vystudoval historii v Petrohradě, pracoval jako úředník
 - psal do novin
 - byl dramatik, prozaik
 - v závěru života příklon k mysticismu, samoděržaví, deprese

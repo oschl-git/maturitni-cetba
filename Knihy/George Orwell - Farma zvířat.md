@@ -74,14 +74,21 @@
 - vlastním jménem **Eric Arthur Blair**
 - anglický spisovatel, jeden z nejvýznamnějších autorů 20. století
 - narodil se v Indii v rodině úředníka
-- zkušenost z války a ze života ho vedly k socialistickým postojům
-- v dospělosti se vrátil do východní Asie
+- vyrůstal v Anglii v Oxfordshiru, zvolil si pseudonym podle místní říčky Orwell
+- začal pracovat pro Indickou imperiální policii na dnešním území Barmy, zde vznikla jeho nenávist k imperialismu a příklon k levicové politice
+- vrátil se do Anglie, psal eseje, pracoval jako novinář
+- žil jako tulák, pohyboval se mezi spodinou společnosti, stal se z něho socialista, antifašita, kritik všech nedemokratických politických systémů
+- byl dobrovolníkem ve španělské občanské válce, byl zraněn
+- zemřel na tuberkulózu v roce 1949, rok po vydání svého nejúspěšnějšího románu
 - **témata díla:**
 	- kritika totalitních režimů (komunismus, fašismus)
-- **další dílo:**
+- **dílo:**
 	- romány
 		- *1984*
 		- *Na dně v Paříži  a Londýně*
+		- *Farma zvířat*
+	- reportáž
+		- *Hold katalánsku*
 ## Farma zvířat (1945)
 - literární druh: **epika**
 - literární žánr: **román, alegorická bajka**
