@@ -9,7 +9,7 @@
 - vymezovali se dekadenci a nihilismu
 - **další autoři období:**
 	- Petr Bezruč
-		- *Slezsklé písně* (básnická sbírka)
+		- *Slezské písně* (básnická sbírka)
 	- František Gellner
 		- *Po nás ať přijde potopa* (básnická sbírka)
 		- *Radosti života* (básnická sbírka)
@@ -39,7 +39,7 @@
 		- *Okno*
 			- básnická sbírka
 			- napsal ve vězení, o věznění
-	- drama
+	- dramata
 		- *Milá sedmi loupežníků*
 		- *Zmoudření dona Quijota*
 ## Krysař (1915)

@@ -2,6 +2,7 @@
 - první republika (20. a 30.  léta)
 	- 20. léta: období prosperity a rozvoje společnosti
 	- 30. léta: období hospodářské krize a německého nacionalismu
+- 1929 - hospodářská krize, krach newyorské burzy
 - problematické postavení němců a Katolíků ve společnosti
 - jeden z vrcholů české literatury (prózy i dramatu)
 - **další autoři období:**
@@ -65,6 +66,7 @@
 - organizoval společné páteční diskuze = "pátečníci"
 	- Karel Čapek, Josef Čapek, T. G. Masaryk, Edvard Beneš, Eduard Bass, Karel Poláček
 - bojoval proti válce a fašismu
+- bydlel v jedné vilce na Praze 10 se svou rodinou i rodinou bratra Josefa
 - vyznával relativismus a pragmatismus
 	- **relativismus** = spektrum názorů, které spojuje, že věci jsou na sobě závislé i v případě, že si to většina lidí nemyslí, postoje tvořené souvislostmi
 	- **pragmatismus** = staví do popředí lidské jednání a praxi, to, co bylo osvědčeno
@@ -86,6 +88,7 @@
 		- *Italské listy* (cestopis)
 		- *Devatero pohádek* (soubor pohádek)
 			- *Velká doktorská pohádka* (pohádka -> Lotrando a Zubejda!!!)
+		- *Dášenka čili život štěněte* (pohádková knížka)
 	4. noetická trilogie
 		- *Hordubal* (novela)
 		- *Povětroň* (novela)
@@ -124,7 +127,7 @@
 	- epická dějová část
 	- objevení mloků kapitánem Van Tochem
 	- zlidštění mloků, jejich přijetí společností
-2. kniha:  *Po stupních civilizace*
+2. kniha: *Po stupních civilizace*
 	- soubor novinových zpráv a výstřižků pana Povondry
 	- vývoj a rozšíření mloků
 	- využití mloků společností

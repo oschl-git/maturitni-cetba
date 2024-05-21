@@ -6,10 +6,10 @@
 	- autorská dvojice **Jiří Suchý** a **Jiří Šlitr**
 	- psali populární hudbu a písničky
 	- inteligentní, poetické texty
-	- šlitr zemřel předčasně již v roce 1969 za nevyjasněných okolností, mohlo se jednat o sebevraždu, Suchý dál v divadle pokračoval
+	- Šlitr zemřel předčasně již v roce 1969 za nevyjasněných okolností, mohlo se jednat o sebevraždu, Suchý dál v divadle pokračoval
 	- tvořili první televizní videoklipy
 	- druhou kreativní dvojicí byl **Jiří Grossman** a **Miroslav Šimek**
-	- dnes v divadle účinkuje **Luděk Sobota**
+	- později v divadle účinkuje **Luděk Sobota**
 - **Divadlo Járy Cimrmana**
 	- vzniklo na konci 60. let
 	- zakládající dvojice **Ladislav Smoljak** a **Zdeněk Svěrák**
@@ -18,6 +18,7 @@
 	- představení se skládají z úvodního semináře a inscenace jedné hry, kterou Cimrman napsal
 	- divadla řeší život a dílo Járy Cimrmana, semináře předkládají výsledky bádání
 	- kvůli nátlaku režimu se muselo divadlo často stěhovat
+	- dnes divadlo sídlí na Žižkově
 	- o Járovi Cimrmanovi byly natočeny filmy
 		- *Jára Cimrman ležící spící*
 			- komedie, filmová biografie Járy Cimrmana
@@ -40,7 +41,7 @@
 	- Pavel Kohout
 		- drama
 			- *August August, august*
-	- Pavel Kohout
+	- Josef Topol
 		- dramata
 			- *Konec masopustu*
 			- *Kočka na kolejích*

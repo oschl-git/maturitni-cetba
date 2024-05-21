@@ -25,9 +25,8 @@
 			- *Zkrocení zlé ženy* (komedie)
 			- *Sen noci svatojánské* (komedie)
 			- *Romeo a Julie* (tragédie)
-			- *Hamlet, kralevic dánský* (tragédie)
+			- *Hamlet, princ dánský* (tragédie)
 			- *Macbeth* (tragédie)
-			- *Hamlet* (tragédie)
 			- *Julius Caesar* (historické drama)
 ### Humanismus
 - od konce 15. století, celé 16. století
@@ -86,6 +85,7 @@
 - později byl spolumajitelem divadla Globe Theatre
 - ke konci života se usadil v rodném Stratfordu, kde zemřel
 - jeho tvorba je vrchol anglické renesance a alžbětinského divadla
+- jeho díla překládal **Martin Hilský**
 - celkem napsal 37 dramat a sbírku sonetů
 - **tvorbu dělíme na tři klíčová období:**
 	1. **1590 - 1600**, především komedie a historické hry, ale i Romeo a Julie
@@ -124,7 +124,7 @@
 - vznešená obraznost i hovorovost
 ### Téma díla
 - dramatické a rodinné vztahy dánského prince Hamleta
-- zrada, nenávist, pomsta, láska lži, intriky, smrt
+- zrada, nenávist, pomsta, láska, lži, intriky, smrt
 ### Časové a prostorové umístění
 - v Dánsku, na hradě Elsinor
 - na počátku 17. století (autorova současnost)
@@ -165,7 +165,7 @@
 	- správně soudí Hamletovo jednání a Claudiovu vinu
 ### Stručný děj díla
 1. dějství
-	- dánský král zemřel, na trůn nastoupil jeho bratr Claudius, oženil se s králiovnou Gertrudou
+	- dánský král zemřel, na trůn nastoupil jeho bratr Claudius, oženil se s královnou Gertrudou
 	- Hamletovi se zjeví duch jeho otce, prozradí mu, že ho zavraždil Claudius tím, že mu nalil jed do ucha, chce po Hamletovi, aby se pomstil
 2. dějství
 	- Hamlet se rozhodne, že se pomstí, předstírá šílenství, snaží se přijít na to, zda mu přízrak říkal pravdu
@@ -186,7 +186,7 @@
 	- po cestě z Anglie se Hamlet zastaví u hrobníka, který pro Ofélii kope hrob
 5. dějství
 	- Laertes se chce Hamletovi pomstít za vraždu svého otce, vyzve ho na souboj
-	- Laertes se ovšem spojí s Claudiem, chtějí Hamleta zabít, a tak má Laert ostrý a otrávený meč, Claudius připraví otrávené víno
+	- Laertes se ovšem spojí s Claudiem, chtějí Hamleta zabít, a tak má Laertes ostrý a otrávený meč, Claudius připraví otrávené víno
 	- víno ovšem vypije Gertruda, pozná, že měl Hamlet pravdu, umírá
 	- Laertes na Hamleta zaútočí, Hamlet ovšem Laertovi sebere meč a Laerta zabije, sám se ale mečem zraní
 	- Hamlet před svou smrtí otrávením zabije Claudia

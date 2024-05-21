@@ -86,6 +86,7 @@
 - později byl spolumajitelem divadla Globe Theatre
 - ke konci života se usadil v rodném Stratfordu, kde zemřel
 - jeho tvorba je vrchol anglické renesance a alžbětinského divadla
+- jeho díla překládal **Martin Hilský**
 - celkem napsal 37 dramat a sbírku sonetů
 - **tvorbu dělíme na tři klíčová období:**
 	1. **1590 - 1600**, především komedie a historické hry, ale i Romeo a Julie

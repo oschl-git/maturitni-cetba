@@ -1,10 +1,10 @@
-## Literatura po 2. světové válce
+## Světová literatura po 2. světové válce
 - svět je rozdělený na východ a západ
 - Berlín, železná opona
 - NATO, Varšavská smlouva
 - studená válka, závod ve zbrojení
 - **na východě** socialistický realismus:
-	- ineditní literatura, psaná do šuplíku či vydávana samizdatem
+	- ineditní literatura, psaná do šuplíku či vydávána samizdatem
 	- exilová literatura
 - **na západě** svobodná literatura:
 	- bohatost směrů, stylů, žánrů
@@ -33,8 +33,8 @@
 		- Friedrich Dürrenmat
 			- *Fyzikové* (drama)
 			- *Návštěva staré dámy* (drama)
-		- Tenessee Williams
-			- *Tramvaj do stanice touhla* (drama)
+		- Tennessee Williams
+			- *Tramvaj do stanice touha* (drama)
 			- *Kočka na rozpálené plechové střeše* (drama)
 	- beat generation
 		- Jack Kerouac
@@ -54,6 +54,11 @@
 		- Gabriel José García Márquez
 			- *Sto roků samoty* (román)
 	- sci-fi
+		- George Orwell
+			- *1984* (román)
+			- *Farma zvířat* (román)
+			- *Na dně v Paříži a Londýně* (román)
+			- *Hold katalánsku* (reportáž)
 		- John Wyndham
 			- *Den trifidů* (román)
 		- Ray Bradbury
@@ -94,6 +99,7 @@
 - literární žánr: **román, alegorická bajka**
 - literární směr/sloh: **antiutopie**
 ### Stylistická a jazyková charakteristika
+- v er-formě
 - text je alegorický
 - spisovný
 - slova se socialistickým zabarvením (Liga mládeže, sportovní výbor)

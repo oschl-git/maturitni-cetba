@@ -56,9 +56,12 @@
 			- *Spáč v úvalu* (báseň)
 			- *Sezóna v pekle* (báseň v próze)
 			- *Opilý koráb* (básnická skladba)
+		- Charles Baudelaire
+			- *Květy zla* (básnická sbírka)
 ## Prokletí básníci
 - dekadenti
 - skupina francouzských básníků 2. pol. 19. stol.
+- Verlaine opustil svou manželku kvůli milostnému vztahu s Rimbandem
 ## Charles Baudelaire
 - **1821 - 1867**
 - francuzský prokletý básník a literární kritik
@@ -69,6 +72,7 @@
 - za sbírku Květy zla byl odsouzen za urážku
 	- pokuta, sbírka mu byla zabavena, zcenzurována
 - zemřel jako chudý člověk, nebyl si na sebe schopný vydělat
+- mimo *Květů zla* nenapsal žádnou jinou básnickou sbírku
 ## Květy zla (1857)
 - literární druh: **lyrika**
 - literární žánr: **básnická sbírka**

@@ -1,16 +1,25 @@
-## Meziválečná literatura 
+## Meziválečná světová literatura 
 - neklidné příměří v Evropě
 - světová hospodářská krize (1929)
 - literatura ovlivněna vzestupem nacionalismu, fašismu a bolševismu
 - technologický pokrok
 - **další autoři období:**
 	- ztracená generace
+		- Ernest Hemingway
+			- *Stařec a moře* (novela)
+			- *Sbohem armádo* (román)
+			- *Zelené pahorky africké* (román)
+			- *Komu zvoní hrana* (román)
+			- *Vojákův návrat* (povídka)
 		- Francis Scott Fidzgerald 
 			- *Velký Gatsby* (román)
 			- *Něžná je noc* (román)
 		- John Steinbeck
 			- *O myších a lidech* (novela)
 			- *Hrozny hněvu* (novela)
+		- Erich Maria Remarque 
+			- *Na západní frontě klid* (román)
+			- *Tři kamarádi* (román)
 	- meditativní a filozofická próza
 		- Antoine de Saint-Exupéry
 			- *Malý princ* (pohádka)
@@ -76,9 +85,6 @@
 ## Stařec a moře (1952)
 - literární druh: **epika**
 - literární žánr: **novela**
-	- epický žánr krátkého až středního rozsahu
-	- jeden jednoduchý příběh
-	- typický nečekaný zvrat na konci
 - literární směr/sloh: **světová literatura 1. poloviny 20. století, ztracená generace**
 ### Stylistická a jazyková charakteristika
 - vypravěč v er-formě, pouze konstatuje, nevysvětluje, nezaujatý

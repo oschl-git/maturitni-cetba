@@ -60,7 +60,7 @@
 	- Virginia zemřela, jako důsledek začal pít, propadl depresi a duševním nemocem, pokusil se o sebevraždu
 	- po rvačce v hospodě zemřel
 	- jeho pohřbu se zúčastnili pouze čtyři lidé
-- **další dílo:**
+- **dílo:**
 	- povídky
 		- *Vraždy v ulici Morgue*
 		- *Jáma a kyvadlo*
@@ -68,7 +68,7 @@
 		- *Havran a další básně*
 - **spojení autoři**
 	- Arthur Conan Doyle
-	- H. P. Lovecraft
+	- Howard Phillips Lovecraft
 ## Havran (1845)
 - literární druh: **lyricko-epická skladba**
 - literární žánr: **temná romantická poezie**

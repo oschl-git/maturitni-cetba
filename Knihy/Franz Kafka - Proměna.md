@@ -1,9 +1,9 @@
-## Meziválečná literatura 
+## Meziválečná světová literatura 
 - neklidné příměří v Evropě
 - světová hospodářská krize (1929)
 - literatura ovlivněna vzestupem nacionalismu, fašismu a bolševismu
 - technologický pokrok
-- **další autoři období:**
+- **autoři období:**
 	- ztracená generace
 		- Ernest Hemingway
 			- *Stařec a moře* (novela)
@@ -17,14 +17,20 @@
 		- John Steinbeck
 			- *O myších a lidech* (novela)
 			- *Hrozny hněvu* (novela)
+		- Erich Maria Remarque 
+			- *Na západní frontě klid* (román)
+			- *Tři kamarádi* (román)
 	- meditativní a filozofická próza
 		- Antoine de Saint-Exupéry
 			- *Malý princ* (pohádka)
 			- *Noční let* (román)
 			- *Citadela* (román)
 	- experimentální próza
+		- Franz Kafka
+			- *Proměna* (povídka)
+			- *Proces* (román)
 		- James Joyce
-			- *Oddysseus* (román) 
+			- *Odysseus* (román) 
 	- drama
 		- George Bernard Shaw
 			- *Pygmalion* (satirická sociální komedie)

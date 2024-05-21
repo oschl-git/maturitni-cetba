@@ -9,7 +9,7 @@
 	- člověk je determinován dědičností a prostředím, ve kterém existuje
 	- jeho charakter je ovládán jeho instinkty a pudy
 	- obsahuje drastické a odpuzující scény
-- **další autoři období:**
+- **autoři období:**
 	- anglický realismus
 		- Charles Dickens
 			- *Oliver Twist* (román)
@@ -80,7 +80,7 @@
 - dialogy, přímá řeč
 - spisovný jazyk s hovorovými prvky
 - scénické poznámky
-- termíny, oslovení, metafora, zpřirovnání
+- termíny, oslovení, metafora, přirovnání
 ### Téma díla
 - kritika společnosti (úplatkářství, byrokratismus)
 - charaktery lidí ovlivněné penězi a mocí
