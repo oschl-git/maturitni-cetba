@@ -46,7 +46,7 @@
 	- Ludvík Vaculík
 		- *Český snář* (román)
 		- *Morčata* (román)
-	- Ladislav Fuchs
+	- Ladislav Fuks
 		- *Pan Theodor Mundstock* (román)
 		- *Spalovač mrtvol* (román)
 	- Milan Kundera
